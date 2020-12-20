@@ -1,0 +1,14 @@
+TRANSFER
+
+TRANSFRT take a series of random integer number. Those number should be rearrange their position according to the string that following. c or C represent column and number should be arrange line by line, which is the column style. r or R represent row and number should be arrange in a row style.
+
+
+Input: TRANSFER 1 4 3 5  c
+Output: 
+1
+4
+3
+5
+
+Input: TRANSFER 4 6 8 3 5 R
+Output: 4 6 8 3 5

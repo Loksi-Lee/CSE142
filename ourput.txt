@@ -1,0 +1,9 @@
+Betty Boop: [50, 50, 50, 50] = XXXX
+Snoopy: [50, 50, 50, 50] = XXXX
+Bugs Bunny: [50, 50, 50, 50] = XXXX
+Daffy Duck: [50, 50, 50, 50] = XXXX
+The frumious bandersnatch: [50, 50, 50, 50] = XXXX
+Minnie Mouse: [50, 50, 50, 50] = XXXX
+Luke Skywalker: [50, 50, 50, 50] = XXXX
+Han Solo: [50, 50, 50, 50] = XXXX
+Princess Leia: [50, 50, 50, 50] = XXXX
